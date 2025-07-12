@@ -1,11 +1,11 @@
 <h1 align="left">💯 Days of Code: Python Challenge</h1>
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP6Ad5Kgd6IQiL0SUnbraDCtIjpM6Ymm65iw&s" alt="100 Days of Code">
+  <img src="https://media.giphy.com/media/3o7WIv6kbj7nLUuBag/giphy.gif" alt="100 Days of Code">
 </p>
 
 <p align="left">
-  🚀 My journey to becoming a best Python developer by committing to code every single day for 100 days!
+  🚀 My journey to becoming a better Python developer by committing to code every single day for 100 days!
 </p>
 
 ---
@@ -22,7 +22,7 @@ Most of my projects follow along with:
 
 ### 🔰 Beginner
 
-- [Day 1:](./Day_01) Variables, Input, and Print 🚀  
+- [Day 01:](./Day_01) Variables, Input, and Print 🚀  
 - 🔜 More days coming...
 
 ---
