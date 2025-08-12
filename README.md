@@ -22,7 +22,8 @@ Most of my projects follow along with:
 
 ### 🔰 Beginner
 
-- [Day 01:](./Day_01) Variables, Input, and Print 🚀  
+- [Day 01:](./Day_01) Variables, Input, and Print 🚀
+-  [Day 02:](./Day_02) Understanding Data Types and How to Manipulate Strings
 - 🔜 More days coming...
 
 ---
