@@ -11,4 +11,4 @@
 ## [View Code](main.py)
 
 ## 🎥 Demo:
-![Day 1 Demo](day_02.gif)
+![Day 2 Demo](day_02.gif)
